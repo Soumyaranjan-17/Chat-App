@@ -1,0 +1,36 @@
+.vercel
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+coverage/
+
+# Miscellaneous files
+*.bak
+*.swp
